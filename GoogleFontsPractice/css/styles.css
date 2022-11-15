@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+/* Practice CustomFonts Style Sheet */
+
+.websafe {
+    font-family: 'Times New Roman', Times, serif;
+}
+.google {
+    font-family: 'Satisfy', 'Brush Script MT', cursive;
+}
