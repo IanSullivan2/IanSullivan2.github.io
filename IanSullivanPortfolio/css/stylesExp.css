@@ -1,0 +1,17 @@
+.border{
+    border-color: white;
+}
+
+thead{
+    color: lime;
+    background-color: black;
+}
+
+tr{
+    color: lime;
+    background-color: black;
+}
+
+h4{
+    color: lime;
+}
