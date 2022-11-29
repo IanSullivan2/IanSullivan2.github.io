@@ -1,0 +1,48 @@
+.banner{
+    width: 100%;
+    height: auto;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    
+    background-color: black;
+    text-align: center;
+    background-image: linear-gradient(to bottom right, black, #696969);
+}
+
+p{
+    color: lime;
+}
+
+h1, h2{
+    color: lime;
+}
+
+footer{
+    color: lime;
+}
+
+li{
+    color: lime;
+    align-self: center;
+}
+
+a{
+    color: lime;
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.align{
+    display: flex;
+    justify-content: center;
+}
+

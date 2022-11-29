@@ -1,0 +1,26 @@
+.border{
+    border-color: white;
+}
+
+thead{
+    color: lime;
+    
+    background-image: linear-gradient(to bottom right, black, #696969);
+}
+
+tr{
+    color: lime;
+    background-color: black;
+    background-image: linear-gradient(to bottom right, black, #696969);
+}
+
+h4{
+    color: lime;
+    text-align: center;
+}
+
+.align{
+    display: flex;
+    justify-content: center;
+}
+
