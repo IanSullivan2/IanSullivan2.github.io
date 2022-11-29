@@ -1,0 +1,27 @@
+.color, legend{
+    color: lime;
+}
+
+p{
+    color: lime;
+}
+
+.right{
+    width: 100%;
+
+   
+} 
+
+.center{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.phone{
+    margin-right: 10px;
+}
+
+.email{
+    margin-right: 10px;
+}

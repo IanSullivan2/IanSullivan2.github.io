@@ -1,0 +1,33 @@
+.border{
+    border-color: white;
+}
+
+thead{
+    color: lime;
+    
+    background-image: linear-gradient(to bottom right, black, #696969);
+}
+
+tr{
+    color: lime;
+    background-color: black;
+    background-image: linear-gradient(to bottom right, black, #696969);
+}
+
+h4{
+    color: lime;
+    text-align: center;
+}
+
+.align{
+    display: flex;
+    justify-content: center;
+}
+
+.projects{
+    display: flex;
+    justify-content: left;
+    justify-content: space-around;
+    background-image: linear-gradient(to top left, black, #696969);
+    border: 10px;
+}
