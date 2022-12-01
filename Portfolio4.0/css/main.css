@@ -1,0 +1,73 @@
+/*Ian Sullivan, November 30, 2022*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Satisfy&display=swap');
+@font-face {
+    font-family: 'Courier Prime';
+    src: url('../fonts/courier_prime-webfont.woff') format('woff');
+}
+
+.banner{
+    border-radius: 5%;
+    width: 75%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier Prime';
+}
+
+html{
+    
+    text-align: center;
+    background-image: linear-gradient(to bottom right, black, #696969);
+}
+
+p{
+    color: lime;
+}
+
+h1, h2, h3, h4{
+    color: lime;
+    font-family: 'Oswald', sans-serif;
+}
+
+footer{
+    color: lime;
+}
+
+li{
+    color: lime;
+    align-self: center;
+}
+
+a{
+    color: lime;
+}
+
+a:hover{
+    color: white;
+}
+
+table{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly !important;
+    list-style: none;
+    
+}
+
+.photo{
+    border-radius: 50%;
+    width: 50%;
+    height: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
